@@ -1,1 +1,2 @@
 # penggajian
+Kode tersebut adalah sebuah program yang menggunakan kelas Employee untuk menghitung gaji total seorang karyawan. Program ini meminta input dari pengguna, seperti nama karyawan, gaji pokok, tingkat golongan, status pernikahan, dan jumlah anak. Kemudian, dengan menggunakan metode get_salary, program akan menghitung tunjangan golongan, tunjangan anak, tunjangan pasangan, pajak, dan bonus. Akhirnya, program akan menghasilkan dan mencetak gaji total karyawan setelah mempertimbangkan semua faktor tersebut.
